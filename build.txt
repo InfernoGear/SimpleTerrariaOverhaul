@@ -1,0 +1,3 @@
+author = Inferno Gear
+version = 0.1
+displayName = Simple Terraria Overhaul
